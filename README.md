@@ -12,5 +12,5 @@ To start up the application:
 5. Open browser and enter 'localhost:8080' in the address bar.
 6. Enter search term of your choice in the search bar to get relevant videos.
 
-![screenshot](https://github.com/ritikavnair/React-Video-Search/blob/master/ScreenCapture.PNG)
+![screenshot](https://github.com/ritikavnair/React-Weather-Watch/blob/master/ScreenCapture.PNG)
 
