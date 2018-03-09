@@ -10,7 +10,7 @@ To start up the application:
 3. > npm install
 4. > npm start
 5. Open browser and enter 'localhost:8080' in the address bar.
-6. Enter search term of your choice in the search bar to get relevant videos.
+6. Enter names of US cities in the search bar to get the latest weather graphs.
 
 ![screenshot](https://github.com/ritikavnair/React-Weather-Watch/blob/master/ScreenCapture.PNG)
 
